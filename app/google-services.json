@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131417192467",
+    "firebase_url": "https://flashchat-lite-19e2a-default-rtdb.firebaseio.com",
+    "project_id": "flashchat-lite-19e2a",
+    "storage_bucket": "flashchat-lite-19e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131417192467:android:59876b83115fac0b12a7e6",
+        "android_client_info": {
+          "package_name": "com.example.flashchatlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131417192467-p9f0fo680cq5421s5p1gacov9nf5sguc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNnfihgl3i68ulPvtwAkNu5c4fyTE_qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131417192467-p9f0fo680cq5421s5p1gacov9nf5sguc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
