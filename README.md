@@ -1,6 +1,6 @@
 # FlashChat
 We have created an Instant Messaging app called FlashChat. The goal of this app was to create a private application for small businesses and startups. 
-Data security and privacy was the main motive to develop this app. The app has the following features but are not limited to:
+Data security and privacy were the main motive to develop this app. The app has the following features but are not limited to:
 
 -OTP Verification
 
